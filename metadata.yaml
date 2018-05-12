@@ -1,0 +1,26 @@
+_repo: The-Little-Missis_35383
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35383-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Skinner, Charlotte
+    gutenberg_agent_id: '37639'
+    url: http://www.gutenberg.org/2009/agents/37639
+description: ''
+gutenberg_issued: '2011-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway husbands -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+title: The Little Missis
+url: http://www.gutenberg.org/ebooks/35383
